@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #eee;
+}
+
+.container {
+  width: 680px;
+  margin:0 auto;
+  padding:30px 0;
+}
+
+.profile {
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+  padding:15px;
+  background-color: #fff;
+}
+
+.profile .title {
+  margin-bottom:15px;
+  border-bottom:solid #e0e0e0 1px;
+  padding: 10px 5px;
+}
+
+.profile-icon {
+  width: 80px;
+  height: 80px;
+}
+
+.profile-main {
+  display: flex;
+  padding: 5px;
+}
+
+.profile-text {
+  padding:10px;
+}

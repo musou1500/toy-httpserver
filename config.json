@@ -1,0 +1,11 @@
+{
+  "extMap": {
+    "png": "image/png",
+    "jpeg": "image/jpg",
+    "jpg": "image/jpg",
+    "html": "text/html",
+    "css": "text/css"
+  },
+  "port": 8080,
+  "publicDir": "./public"
+}
